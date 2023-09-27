@@ -1,4 +1,4 @@
-# <span style="color:🟦">Digital-Image-Processing</span>
+# <span style="color: blue">Digital-Image-Processing</span>
 
 Team:
 1. Onkar
